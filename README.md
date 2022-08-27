@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey, I'm GrunCrow 👋
+
+- 🔭 I’m currently working on a Turbines Fuzzy System
+- 🌱 I’m currently learning different AI approaches in Python
+- 👯 I’m looking to collaborate on any interesting AI Project
+- 📫 How to reach me: Twitter - @gruncrow
+- 😄 Pronouns: She/They
+- ⚡ Fun fact: Everything is so Wibbly-Wobbly-Timey-Wimmey
 
 <!--
 **GrunCrow/GrunCrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
