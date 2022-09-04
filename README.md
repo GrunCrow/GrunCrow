@@ -1,6 +1,6 @@
 ### Hey, I'm GrunCrow 👋
 
-- 🔭 I’m currently working on a [Turbines Fuzzy System](https://github.com/GrunCrow/FuzzyInferenceSystem)
+- 🔭 I’m currently working on a [Turbines Fuzzy System](https://github.com/GrunCrow/Turbines_Fuzzy_System)
 - 🌱 I’m currently learning different AI approaches in Python
 - 👯 I’m looking to collaborate on any interesting AI Project
 - 📫 How to reach me: [Twitter - @gruncrow](https://twitter.com/GrunCrow)
