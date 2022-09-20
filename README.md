@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning different AI approaches in Python
 - 👯 I’m looking to collaborate on any interesting AI Project
 - 📫 How to reach me: [Twitter - @gruncrow](https://twitter.com/GrunCrow)
-- 😄 Pronouns: She/They
 - ⚡ Fun fact: Everything is so Wibbly-Wobbly-Timey-Wimmey
 
 <!--
