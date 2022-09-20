@@ -1,6 +1,6 @@
 ### Hey, I'm GrunCrow 👋
 
-- 🔭 I’m currently working on a [Turbines Fuzzy System](https://github.com/GrunCrow/Turbines_Fuzzy_System) and in [AI-Census](https://aicensus.github.io)
+- 🔭 I’m currently working on a [Turbines Fuzzy System](https://github.com/GrunCrow/Turbines_Fuzzy_System) and in [AI-Census](https://aicensus.github.io), the public repository you can see related to [AI-Census](https://aicensus.github.io) is [Animal Recognition Neural Network](https://github.com/GrunCrow/Animal_Recognition_Neural_Network) for the moment
 - 🌱 I’m currently learning different AI approaches in Python
 - 👯 I’m looking to collaborate on any interesting AI Project
 - 📫 How to reach me: [Twitter - @gruncrow](https://twitter.com/GrunCrow)
