@@ -1,6 +1,6 @@
 ### Hey, I'm GrunCrow 👋
 
-- 🔭 I’m currently working on a [Turbines Fuzzy System](https://github.com/GrunCrow/Turbines_Fuzzy_System) and in [AI-Census](https://aicensus.github.io), the public repository you can see related to [AI-Census](https://aicensus.github.io) is [Camera Trap Images Classification CNN](https://github.com/GrunCrow/CameraTrap_Images_Classification_CNN) for the moment. As I am finishing my studies I have some on going projects for the University such as [Solar Plant Optimization with Search Algorithms](https://github.com/GrunCrow/Optimization_Solar_Plant). All my University Code is available at [UHU-Code](https://github.com/GrunCrow/UHU_Code)
+- 🔭 I’m currently working in [AI-Census](https://aicensus.github.io), the public repository you can see related to [AI-Census](https://aicensus.github.io) is [Camera Trap Images Classification CNN](https://github.com/GrunCrow/CameraTrap_Images_Classification_CNN) for the moment. All my University Code is available at [UHU-Code](https://github.com/GrunCrow/UHU_Code)
 - 🌱 I’m currently learning different AI approaches in Python
 - 👯 I’m looking to collaborate on any interesting AI Project
 - 📫 How to reach me: [Twitter - @gruncrow](https://twitter.com/GrunCrow)
