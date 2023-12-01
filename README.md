@@ -1,8 +1,8 @@
 ### Hey, I'm GrunCrow 👋
 
-- 🔭 I’m currently working in [AI-Census](https://aicensus.github.io), the public repository you can see related to it is [Camera Trap Images Detection and Hierarchical Classification](https://github.com/GrunCrow/cv4ecology) for the moment.
-- 🎓 All my University Code is available at [UHU-Code](https://github.com/GrunCrow/UHU_Code)
-- 🌱 I’m currently learning different AI approaches in Python, I would love to work more on Machine Learning tecniques applied to ecology
+- 🔭 I’m currently working in [AI-Census](https://aicensus.github.io) and BIRDeep, the public repository you can see related to it is [Camera Trap Images Detection and Hierarchical Classification](https://github.com/GrunCrow/cv4ecology) and [BIRDeep - Audio Detection and Classification](https://github.com/GrunCrow/BIRDeep_NeuralNetworks).
+- 🎓 All my University Code is available at [UHU-Code](https://github.com/GrunCrow/UHU_Code) for the Computer Science Bachelor and at [UCO-MUICE](https://github.com/GrunCrow/MUICE) for the Computational Intelligence and IoT Master.
+- 🌱 I’m currently learning different AI approaches in Python, I would love to work more on Deep Learning tecniques applied to ecology and environment conservation
 - 📫 How to reach me: [Twitter - @gruncrow](https://twitter.com/GrunCrow)
 - ⚡ Fun fact: Everything is so Wibbly-Wobbly-Timey-Wimmey
 
