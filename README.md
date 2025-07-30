@@ -1,7 +1,7 @@
 ### Hey, I'm GrunCrow 👋
 
 - 🔭 I’m currently working in [BIRDeep](https://github.com/BIRDeepORG) and [SEANIMALMOVE](https://github.com/SEANIMALMOVE), the public repository you can see related to it is [BIRDeep - Audio Detection and Classification](https://github.com/GrunCrow/BIRDeep_NeuralNetworks) and the [Github Organization SEANIMALMOVE](https://github.com/SEANIMALMOVE).
-- 📖 Latest publication: [A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana](https://arxiv.org/abs/2503.15576), check code in [BIRDeep Bird Song Detector](https://github.com/GrunCrow/BIRDeep_BirdSongDetector_NeuralNetworks)
+- 📖 Latest publication: [A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana](https://doi.org/10.1016/j.ecoinf.2025.103254), check code in [BIRDeep Bird Song Detector](https://github.com/GrunCrow/BIRDeep_BirdSongDetector_NeuralNetworks)
 - 🎓 All my University Code is available at [UHU-Code](https://github.com/GrunCrow/UHU_Code) for the Computer Science Bachelor and at [UCO-MUICE](https://github.com/GrunCrow/MUICE) for the Computational Intelligence and IoT Master.
 - 🌱 I’m currently learning different AI approaches in Python, I would love to work more on Deep Learning tecniques applied to ecology and environment conservation
 - 📫 How to reach me: [Twitter - @gruncrow](https://twitter.com/GrunCrow)
