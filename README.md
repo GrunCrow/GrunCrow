@@ -7,14 +7,6 @@
 - 📫 How to reach me: [Twitter - @gruncrow](https://twitter.com/GrunCrow)
 - ⚡ Fun fact: Everything is so Wibbly-Wobbly-Timey-Wimmey
 
-## GitHub Stats
-
-![GrunCrow's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrunCrow&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrunCrow&layout=compact&theme=radical)
-
 <!--
 **GrunCrow/GrunCrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
