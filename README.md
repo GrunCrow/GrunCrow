@@ -4,7 +4,7 @@
 - 📖 Latest publication: [A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana](https://doi.org/10.1016/j.ecoinf.2025.103254), check code in [BIRDeep Bird Song Detector](https://github.com/GrunCrow/BIRDeep_BirdSongDetector_NeuralNetworks)
 - 🎓 All my University Code is available at [UHU-Code](https://github.com/GrunCrow/UHU_Code) for the Computer Science Bachelor and at [UCO-MUICE](https://github.com/GrunCrow/MUICE) for the Computational Intelligence and IoT Master.
 - 🌱 I’m currently learning different AI approaches in Python, I would love to work more on Deep Learning tecniques applied to ecology and environment conservation
-- 📫 How to reach me: [Twitter - @gruncrow](https://twitter.com/GrunCrow)
+- 📫 How to reach me: [Twitter - @gruncrow](https://twitter.com/GrunCrow) and preferably by [email - ai.gruncrow@gmail.com](ai.gruncrow@gmail.com)
 - ⚡ Fun fact: Everything is so Wibbly-Wobbly-Timey-Wimmey
 
 <!--
